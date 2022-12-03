@@ -1,3 +1,4 @@
+//Вывести числа от 1 до k в виде матрицы N x N слева направо и сверху вниз.
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
